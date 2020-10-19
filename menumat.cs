@@ -3,7 +3,7 @@ using System;
 public class Program
 {
 	public static void Main()
-	{  // conteo del uno al 10i
+	{  
 		int opcion= 0;
 		 do
 		 {	 
